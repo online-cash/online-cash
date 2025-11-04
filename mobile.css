@@ -70,7 +70,7 @@ h1{
     flex-direction: column;
     justify-content: center;
     justify-items: center;
-    background-image: radial-gradient(circle at left, white ,blue);
+    /*background-image: radial-gradient(circle at left, white ,blue);*/
     
 }
 .ourservice{
@@ -98,4 +98,5 @@ h1{
     
 
 }
+
 
