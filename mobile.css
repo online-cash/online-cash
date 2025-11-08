@@ -128,7 +128,7 @@ body {
 }
 
 .bubble-background {
-  position: absolute; /* Or fixed, depending on desired behavior */
+  position: bottom; /* Or fixed, depending on desired behavior */
   top: 0;
   left: 0;
   width: 100%;
